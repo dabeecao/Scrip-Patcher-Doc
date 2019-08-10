@@ -3,9 +3,9 @@
     ID của ứng dụng
 #  Sytle
     Nếu Type == "D" thì sẽ chép vào $app/Documents"
-	  Nếu Type == "L" thì sẽ chép vào $app/Library"
-	  Nếu Type == "LP" thì sẽ chép vào $app/Library/Preferences"
-		Nếu Type == "D/L" thì sẽ chép vào thư mục data gốc của ứng dụng
+    Nếu Type == "L" thì sẽ chép vào $app/Library"
+    Nếu Type == "LP" thì sẽ chép vào $app/Library/Preferences"
+    Nếu Type == "D/L" thì sẽ chép vào thư mục data gốc của ứng dụng
 #  Name
     Tên ứng dụng
 #  No_Backup
